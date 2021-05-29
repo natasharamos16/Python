@@ -24,5 +24,5 @@ wn.exitonclick()#closes the window when user clicks
 
 
 
-
+#Python is Fun!
 
