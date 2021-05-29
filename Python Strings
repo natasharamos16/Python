@@ -1,0 +1,7 @@
+mysentence = 'Hello'
+
+  print(mysentence)
+  
+mysentencetwo = 'Everyone'
+
+  print(mysentencetwo)
